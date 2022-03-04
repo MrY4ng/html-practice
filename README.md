@@ -1,2 +1,2 @@
 # html-practice
-My HEML practice
+My HTML practice
