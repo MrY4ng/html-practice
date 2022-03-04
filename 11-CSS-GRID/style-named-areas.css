@@ -1,0 +1,11 @@
+.container {
+	display: grid;
+	grid-gap: 5px;
+}
+
+.item {
+	background-color: #1E96FF;
+	color: #FFFFFF;
+	text-align: center;
+	padding: 20px;
+}
